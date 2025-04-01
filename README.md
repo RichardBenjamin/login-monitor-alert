@@ -26,8 +26,7 @@ login-monitor-alert/
 ├── .gitignore                      # Ignores logs/sensitive info
 ├── logs/
 │   ├── auth_copy.log               # Copied auth log
-│   ├── fswebcam.log                # Logs webcam command output
-│   └── monitor-script.log          
+│   ├── fswebcam.log                # Logs webcam command output         
 ├── snapshots/
 │   └── snapshot.jpg                # Captured image of intruder
 ├── config/
