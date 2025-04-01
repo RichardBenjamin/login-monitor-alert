@@ -1,0 +1,12 @@
+# ~/.msmtprc
+account        gmail
+host           smtp.gmail.com
+port           587
+from           your-email@gmail.com
+user           your-email@gmail.com
+password       abcd efgh ijkl mnop  # Replace this with your App Password
+auth           on
+tls            on
+tls_trust_file /etc/ssl/certs/ca-certificates.crt
+logfile        ~/.msmtp.log
+
