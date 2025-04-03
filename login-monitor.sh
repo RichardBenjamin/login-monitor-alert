@@ -11,8 +11,8 @@ truncate -s 0 "$COPY_LOG"
 
  # Function to handle login success
 handle_success() {
-    echo "exiting script"
-    trap "echo 'Script terminated'; exit 0" SIGINT SIGTERM
+    kill 0  # Terminates all processes in the current script group
+    exit 0  # Ensures script stops immediately
 }
 
 
