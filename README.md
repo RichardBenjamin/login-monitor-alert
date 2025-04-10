@@ -127,7 +127,7 @@ You can also redirect logs with:
 
 ## Author & Contact
 
-Made with ❤️ Kenechukwu Okeke Benjamin Richard\
+Made by Kenechukwu Okeke Benjamin Richard\
 📧 [Email]kenechukwuokeke3101@gmail.com\
 🔗 [LinkedIn](https://www.linkedin.com/in/kenechukwu-okeke-295397290/)\
 📁 [View Full Guide](https://hashnode.com/post/cm916erxb000a09l54rsbawkd)
