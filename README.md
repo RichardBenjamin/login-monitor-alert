@@ -86,11 +86,10 @@ echo -e "Subject: Test Email\n\nThis is a test." | msmtp your-email@example.com
 
 ## Example Output
 
-- ✅ `snapshot.jpg` saved after intrusion
-- ✅ Timestamp included in the email
-- ✅ Email alert sent automatically once online
+- `snapshot.jpg` saved after intrusion
+- Timestamp included in the email
+- Email alert sent automatically once online
 
-> 📸 You can test this by attempting multiple failed SSH or sudo logins, then reviewing the logs and inbox.
 
 ---
 
@@ -128,10 +127,10 @@ You can also redirect logs with:
 
 ## Author & Contact
 
-Made with ❤️ by [Your Name]\
-📧 [your-email@gmail.com](mailto\:your-email@gmail.com)\
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)\
-📁 [View Full Guide](./docs/detailed-doc.md)
+Made with ❤️ Kenechukwu Okeke Benjamin Richard\
+📧 [Email]kenechukwuokeke3101@gmail.com\
+🔗 [LinkedIn](https://www.linkedin.com/in/kenechukwu-okeke-295397290/)\
+📁 [View Full Guide](https://hashnode.com/post/cm916erxb000a09l54rsbawkd)
 
 ---
 
